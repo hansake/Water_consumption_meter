@@ -2,6 +2,6 @@
 Optical sensor and NodeMCU to read a water meter and send data to Domoticz with MQTT.
 
 This project reads the rotating disk of a water consumption meter and sends data
-update messages with MQTT to a http://jheyman.github.io/blog/pages/WirelessWaterMeter/http://jheyman.github.io/blog/pages/WirelessWaterMeter/Domoticz system running on a Raspberry Pi.
+update messages with MQTT to a Domoticz system running on a Raspberry Pi.
 
 The project is to a large extent build on ideas from: http://jheyman.github.io/blog/pages/WirelessWaterMeter/
